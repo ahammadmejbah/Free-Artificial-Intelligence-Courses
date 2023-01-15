@@ -36,7 +36,8 @@ Artificial intelligence (AI) refers to the simulation of human intelligence in m
 
 8. <a href="https://www.udemy.com/course/practical-deep-learning-image-search-engine/">Amazing AI: Reverse Image Search: </a> 
   
-  Requirements
+  Requirements:
+  
       1. Python programming
       2. Basic conceptual understanding of Convolutional Neural Networks (CNN)
       3. Basic knowledge of Deep Learning ins mandatory
