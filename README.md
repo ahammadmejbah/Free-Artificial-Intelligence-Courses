@@ -11,11 +11,11 @@
 5. <a href="https://www.udemy.com/course/artificial-intelligence-preparing-your-career-for-ai/">Artificial Intelligence: Preparing Your Career for AI: </a>
   Are you prepared for the AI tech revolution? Whether you realize it or not, we are currently entering the era of artificial intelligence. AI technologies are radically transforming our lives, our careers, and our world. However, most of us have not yet learned how to leverage the power of this new technology. In this free course, you’ll learn the five things you should be doing today to prepare your career for the coming wave of AI-enabled automation.
 
-  1. Educate yourself about AI
-  2. Upgrade your career for AI
-  3. Invest in an AI-first economy
-  4. Use AI ethically and responsibly
-  5. Adapt to what comes next 
+        1. Educate yourself about AI
+        2. Upgrade your career for AI
+        3. Invest in an AI-first economy
+        4. Use AI ethically and responsibly
+        5. Adapt to what comes next 
 The future belongs to those who are willing to invest in AI now. Don’t get left behind!
 6. <a href="https://www.udemy.com/course/kickstart-ai/">Kickstart Artificial Intelligence: </a> 
   In this course, students will learn how to implement Artificial Intelligence in a hands on manner for a wide variety of new use cases while using cutting edge technologies such as Generative Adversarial Networks, Reinforcement Learning as well as classic Artificial Intelligence technologies such as Dense Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks and Long Short Term Memory Networks. Join the Gitter for new updates on AI and ML, and to spark some interesting information! With help from Jon Krohn's Github Tensorflow Live Lessons
