@@ -33,6 +33,7 @@ The future belongs to those who are willing to invest in AI now. Don’t get lef
 - An overview of Azure ML studio to develop AI solutions without coding.
 
 Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving. The ideal characteristic of artificial intelligence is its ability to rationalize and take actions that have the best chance of achieving a specific goal. A subset of artificial intelligence is machine learning, which refers to the concept that computer programs can automatically learn from and adapt to new data without being assisted by humans. Deep learning techniques enable this automatic learning through the absorption of huge amounts of unstructured data such as text, images, or video.
+
 8. <a href="https://www.udemy.com/course/practical-deep-learning-image-search-engine/">Amazing AI: Reverse Image Search: </a> 
   Requirements
   1. Python programming
@@ -41,6 +42,7 @@ Artificial intelligence (AI) refers to the simulation of human intelligence in m
   4. (optional) Previous coding experience with TensorFlow
 
 Artificial intelligence is one of the fastest growing fields of computer science today and the demand for excellent AI Engineers is increasing day in and day out. This course will help you stay competitive in the AI job market by teaching you how to create a Deep Learning End-to-End product on your own. Most courses focus on the basics of Deep Learning and teach you about the very basics of different models. In this course, however, you will learn how to write a whole End-to-End pipeline, from data preprocessing across choosing the right hyper-parameters, to showing your users results in a browser.
+
 9. <a href="https://www.udemy.com/course/machine-intelligence-masterclass/">Machine Intelligence - an Introductory Course: </a>
   This course focuses on the theoretical aspects of the field of Data Science and Machine Learning. It helps the students to quickly gain an in-depth overview of different algorithmic techniques used in various domains and applications. This course features external links to further enhance the experience and reinforce the concepts acquired. It also provides easy explanations of popular and useful research papers that are driving this field forward.
 
