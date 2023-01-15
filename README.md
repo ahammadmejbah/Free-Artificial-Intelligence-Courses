@@ -22,24 +22,25 @@ The future belongs to those who are willing to invest in AI now. Don’t get lef
 7. <a href="https://www.udemy.com/course/introduction-to-artificial-intelligence-c/">Introduction To Artificial Intelligence</a>
   This course considered a start point for everyone who is interested to understand and get an overview about AI, and most of its concepts; techniques are explained without the need of any coding/programming skills or background. By the end of this training, participant will learn the followings:
 
-- Define & explain Key Concepts of AI.
+      - Define & explain Key Concepts of AI.
 
-- Highlighting AI Use Case & Applications.
+      - Highlighting AI Use Case & Applications.
 
-- Differentiate different Machine learning techniques.
+      - Differentiate different Machine learning techniques.
 
-- Explaining AI development Process
+      - Explaining AI development Process
 
-- An overview of Azure ML studio to develop AI solutions without coding.
+      - An overview of Azure ML studio to develop AI solutions without coding.
 
 Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving. The ideal characteristic of artificial intelligence is its ability to rationalize and take actions that have the best chance of achieving a specific goal. A subset of artificial intelligence is machine learning, which refers to the concept that computer programs can automatically learn from and adapt to new data without being assisted by humans. Deep learning techniques enable this automatic learning through the absorption of huge amounts of unstructured data such as text, images, or video.
 
 8. <a href="https://www.udemy.com/course/practical-deep-learning-image-search-engine/">Amazing AI: Reverse Image Search: </a> 
+  
   Requirements
-  1. Python programming
-  2. Basic conceptual understanding of Convolutional Neural Networks (CNN)
-  3. Basic knowledge of Deep Learning ins mandatory
-  4. (optional) Previous coding experience with TensorFlow
+      1. Python programming
+      2. Basic conceptual understanding of Convolutional Neural Networks (CNN)
+      3. Basic knowledge of Deep Learning ins mandatory
+      4. (optional) Previous coding experience with TensorFlow
 
 Artificial intelligence is one of the fastest growing fields of computer science today and the demand for excellent AI Engineers is increasing day in and day out. This course will help you stay competitive in the AI job market by teaching you how to create a Deep Learning End-to-End product on your own. Most courses focus on the basics of Deep Learning and teach you about the very basics of different models. In this course, however, you will learn how to write a whole End-to-End pipeline, from data preprocessing across choosing the right hyper-parameters, to showing your users results in a browser.
 
